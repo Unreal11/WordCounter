@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EHxUgCk+L+8+qe+DXJqqdR1DzoJgNT6o1ii4XWT6h6E=",
+  "Source": "Wordcounter.Server",
+  "BasePath": "_content/Wordcounter.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
